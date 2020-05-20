@@ -6,7 +6,7 @@ package com.example.testgit;
  * @date 2020年5月20日, 0020
  * @version v1.0.0
  */
-public class User {
+public class Yuqb {
     private String name;
     private int age;
 }
