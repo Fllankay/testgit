@@ -9,5 +9,6 @@ package com.example.testgit;
 public class Main {
     public static void main(String[] args) {
         System.out.println("this is Yuqb");
+        System.out.println("update my new");
     }
 }
